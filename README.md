@@ -1,26 +1,31 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Postcard
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
+Who does not like postcards? This is one of your first exercises (if not the first) and it's fun and relatively easy :)
 
-The most basic boilerplate for any 4Geeks Academy Student using the [gitpod.io](gitpod.io) coding editor.
+Lets create a postcard with HTML5 and CSS and then you can share it with your mom or with your other half, she/he is going to be proud! :)
 
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/web-docs/static/hello-html-intro.jpg?raw=true)](https://youtu.be/dfbDCMu_p-0)
+## Instructions
 
-## What to do next?
+Create the HTML and CSS needed to replicate [this exact same picture](https://github.com/breatheco-de/exercise-postcard/blob/master/preview.png?raw=true).
 
-Create a `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running web-server using the following command:
+<p align="center"><img height="300px" src="https://github.com/breatheco-de/exercise-postcard/blob/master/preview.png?raw=true" /></p>
 
-```sh
-$ pip3 install flask && python3 server.py
-```
+Here the url for 4Geeks logo: [http://assets.breatheco.de/apis/img/icon/4geeks.png](http://assets.breatheco.de/apis/img/icon/4geeks.png)
 
-- You can create as many HTML files you want
-- You can also create CSS files and you can import them onto your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+## Create by drawing your strategy
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+![Postcard Strategy](https://github.com/breatheco-de/exercise-postcard/blob/master/strategy.gif?raw=true)
+
+## What to do if you are stuck?
+
+There is a video about this exercise, watch it if you are lost. But don't copy everything, try to code some of your own.
+
+## Fundamentals
+This exercise covers the following fundamentals:
+1. Basic structure for every HTML5 website.
+2. The *Link* tag to import CSS Rules.
+3. Using google fonts.
+3. Using the different selectors available in CSS.
+4. Working with boxes: border, padding and margins.
+5. Overflow.
+6. Using a simple form.
